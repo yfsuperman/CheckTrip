@@ -1,0 +1,7 @@
+#Wed Nov 30 17:28:02 EST 2016
+base.0=/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed43a19a6be89b43187a24c422a3483766981de4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d6f09554a64296225c853b8749d41f05640bbd09/classes.dex
+base.1=/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d6f09554a64296225c853b8749d41f05640bbd09
+file.0=/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed43a19a6be89b43187a24c422a3483766981de4/classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/FanYang/AndroidStudioProjects/Checktrip2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/res/merged/debug/mipmap-mdpi/logo.png",
+        "source": "/Users/FanYang/AndroidStudioProjects/Checktrip2/app/src/main/res/mipmap-mdpi/logo.png"
+    },
+    {
+        "merged": "/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/res/merged/debug/mipmap-mdpi/left_arrow.png",
+        "source": "/Users/FanYang/AndroidStudioProjects/Checktrip2/app/src/main/res/mipmap-mdpi/left_arrow.png"
+    }
+]

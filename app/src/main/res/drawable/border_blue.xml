@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- border color-->
+    <item>
+        <shape>
+            <solid android:color="@color/colorPrimary"/>
+        </shape>
+    </item>
+    <!-- theme background-->
+    <item android:top="0dp" android:bottom="0dp" android:left="0dp" android:right="5dp">
+        <shape>
+            <solid android:color="@color/white"/>
+        </shape>
+        //padding can be added here
+        <padding android:bottom="20dp" android:left="10dp" android:right="10dp" android:top="200dp" />
+    </item>
+</layer-list>

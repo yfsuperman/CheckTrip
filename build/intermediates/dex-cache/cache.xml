@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_4e6c7cace356a1385cbf9f99eead1d3d8bfd0dcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.0_d0eb8ebfb513b199e303dd5535b7111929be4825/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.0_d327fb52b44a9fde98305d9da1a6a0bb60af4398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.0_644f8d734f60fc33b11712ba4c8fc03181be0754/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.0_fc80878b00bbff0815784a7e4dbf48e8fa037d42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.0_57c77dd2381fa9492d989db91ebced18518b332f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_626bac24e1e5c3ab733bfee7acd40effe3ee2885/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.0_4fc196f42d12577be24129f437bd0f4c371250bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_3ee93f61c3779d94641162ca6510c1c548f6515e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5fef4ad8c5b2519596b80a241d56b69dffcd6845">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.0_90919962ddbaf347fbd325b94c64dec3b8729c06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_1c44ca44aef3ef4ecfc6b4613344ab774c81f274/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.0_510ac38de6d46e52329d9a095c62f0c2b9983678/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_2db9daaee317332135875491ddf2a2b77a6ffbb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.0_5201d978d41d59f631ff26e22b1ad84efd266776/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.0_a1a41ab09ab4ee310e6383f27a8266ac2bc2129c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_e258f3809dec27d50e2b8a06cf195fe2ba3f819b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43ab9b69758a0f22706629223c367e9bd478e1a8">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.0_26222669a95ba9303d16392fb34503fe31bfd603/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.0_601f00d07c1a8f2c98d1566d83caf36fa7d81f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_9e280b5dc677b35849c26e3e335f200661e056d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.0_69a89d2edefcedaad86795f4a2f46096527bf9c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.0_b823bfe178294703da59d75a8fe5dc062edb0ee9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.0_b5b48cb949386f798bc6f58e900d8119868ab7f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_83f9fcf274cdb0c6ede53dec6ee1bc66d0d79bad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.0_968ea3d573792e0b640965cbfab290df44243e69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.0_5d8285274065f8043dd19d7efa8727dcc0f6c140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.0_5a6180832229a714ba881266ad7de2022ca3460b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.0_a543f5e8cdc21a09a2e968198d700c68895131fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_fa6cadeea2100ad59750eb597810a61aeea20eb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.0_bf23c94704876579c32681698b45ff26b66b19c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_2b9d69e0a5534e9f380668bae2b1d2e6fe823e2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.11.0_f0ffe7a610fd83d8b2ab02fbb0f417a23f51e2a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.0_9b7604934ee2f7860f39afa189dca5a52a33a9f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="938ba83fbb26987368049237e47718d56e91e222">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.0_adca4839052281cd8224e50d2c802a5612b0bd9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.0_a2b6536339407e09c29db3a75c80cc4abc45d226/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.0_b72d513be8b0e7c6978a84ccde53196659814a8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cf1ba5ec7e29712e2596b320011bd1beccfecf3e">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed43a19a6be89b43187a24c422a3483766981de4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.0_e56825ec6c5715ca99f24ef1cb5be1645660f0c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.0_21d77647bd2e78c9d51cb01d84764037561a27ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="415336382149f2a79eb80599e340e188f6724d6d">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.0_8cadec4019a5038a7f079e9529877f514c42e104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.0_50928f9f5d23a6248ef2f63cc43cb9c7d79919ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.0_61cb0c1a7fa0ed8e77c485002207191f878dda5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_f0e5381f98ceb87ab6d50b159e51ecddfbcc2156/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.roughike/bottom-bar/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9dd08a0718f3c970caefd7c77f78726a50845655">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.roughike-bottom-bar-1.2.1_909ebae0122b2b56f382b8d9481a672ff0554e03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.0_83fb59d1547dcc783c9eb20c50411bed7958d312/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.0_1d429029c8e4d6c278aa494821de9b4f6d107c54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.0_914fa2bbc6ae24360678ba1d037ea29111973586/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_510f69150cdac4ad3c4dd326bac0f75fd27219e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_fa6cadeea2100ad59750eb597810a61aeea20eb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.0_4873f35656abb9e141a232ad41453ac326554257/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4794e1b5e9ec080f09dc60baa303ae3e31d7d9a">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d6f09554a64296225c853b8749d41f05640bbd09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.0_4aa80a73177cd522da1fd4fde49c89b87823108a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.0_abe67378fd8f356f7518e08c979a99fbb5821555/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="51168e0eaf0b146b4ff04864d2c2d98fc2fe2403">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d6f09554a64296225c853b8749d41f05640bbd09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.0_58430a14d53e1bf102957896899e0b4946780c37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.4.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="723945b8050a3623c2682768a215c0e3d1b64ed5">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-auth-0.4.1_8527ccace7292f3e5f5a7407f0a3e536cab16a9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.0_08fd60abc744bf5ccde99ec7b5bf0807a51dd5a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.0_5ec68fa9402d64787939b36fb6f729206d3120c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a6262e47b3a18c0cb74895f5aaece8fda8da6d67">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed43a19a6be89b43187a24c422a3483766981de4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_8ba2953d40faa6e25a3cc12221b6b1e5715506b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf803332f826adea247cc452d0bb04d7943f0007">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.0_f7b11311b568d44badad923f83ea2353118b70b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.0_776e98caf2ba4ed54e53482f4336cab9321dbe06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.0_cdc174bebc1fd7210b30ce7b6a95c38e6c4fdd9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.0_33193feb570ecaddb7b28f0c79cd800497cdaf5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.0_4ec9e1f94649c604876a0b8743cb6e1d4a2ca24b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.0_0e2c9044874fac869f78346ca116719ca9a66d3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.0_4932a0300c0cb2dcdaf4d3cc01fb322888696eca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.0_458900c42e0e8c425bd9583e7d42cda174850b5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.2.1_808726f0e246eb60f60c86e5a1297530184f17f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_7879e14f146846f018b77c8ca54c45836fa40293/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_c855e89a2fbbdb1e34b6af8d4d4c006703e287fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.0_b11179dbd91b8e60e5c7a1d41738e2d001251a6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.0_f2ad73dc8de58c9d24b618d315ffbde70e315155/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/Users/FanYang/AndroidStudioProjects/Checktrip2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.0_cc8de1a71b100a68ded0c37e3db53a87fcfd16c1/classes.dex" />
+    </item>
+
+</items>

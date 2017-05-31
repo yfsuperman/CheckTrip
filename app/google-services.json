@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "803943150446",
+    "firebase_url": "https://checktrip-8ea3a.firebaseio.com",
+    "project_id": "checktrip-8ea3a",
+    "storage_bucket": "checktrip-8ea3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803943150446:android:28700dcdcbe71034",
+        "android_client_info": {
+          "package_name": "com.checktrip.mas.checktrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803943150446-54kh5ct5t4ae6uof9qaha3j6druabf5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV-PcXFuV3nrJyyZR6S5jOIqxIaeX5P14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

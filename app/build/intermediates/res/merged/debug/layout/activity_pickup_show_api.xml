@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/activity_show_api"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.checktrip.mas.checktrip.pickupShowAPI"
+    android:baselineAligned="false">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar">
+
+    </include>
+
+    <Button
+        android:text="Logout"
+        android:textSize="10dp"
+        android:background="@drawable/border"
+        android:layout_marginTop="-40dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:layout_gravity="right"
+        android:id="@+id/logout" />
+
+    <TextView
+        android:text="@string/Traver"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/checkName"
+        android:textColor="#FFB90F"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:background="@drawable/border"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:id="@+id/divider1" />
+
+    <TextView
+        android:text="Departs"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/depp" />
+
+    <TextView
+        android:text="@string/depAirport"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"
+        android:id="@+id/depAirport"
+        android:layout_marginLeft="60dp" />
+
+    <TextView
+        android:text="@string/depInfo"
+        android:textSize="10dp"
+        android:layout_marginLeft="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/depInfo" />
+
+    <TextView
+        android:text="@string/depGate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:id="@+id/depGate" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:text="@string/depTime"
+            android:textSize="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:id="@+id/depTime" />
+
+        <TextView
+            android:text="@string/depDate"
+            android:textSize="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/depDate" />
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:background="@drawable/border"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/divider2" />
+
+    <TextView
+        android:text="Arrives"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/arrr" />
+
+    <TextView
+        android:text="@string/arrAirport"
+        android:textSize="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:id="@+id/arrAirport" />
+
+    <TextView
+        android:text="@string/arrInfo"
+        android:textSize="10dp"
+        android:layout_marginLeft="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/arrInfo" />
+
+    <TextView
+        android:text="@string/arrGate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:id="@+id/arrGate" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:text="@string/arrTime"
+            android:textSize="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:id="@+id/arrTime" />
+
+        <TextView
+            android:text="@string/arrDate"
+            android:textSize="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/arrDate" />
+
+
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:background="@drawable/border"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:id="@+id/divider3" />
+
+
+
+    <Button
+        android:text="Save this flight"
+        android:background="@drawable/border"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:id="@+id/saveFlight" />
+
+</LinearLayout>
